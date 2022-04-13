@@ -1,3 +1,5 @@
+# 转自其他人的文档，非本人撰写
+
 #loading required packages
 library(tm)
 library(SnowballC)
